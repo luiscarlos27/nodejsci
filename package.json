@@ -1,0 +1,19 @@
+{
+  "name": "nodejsci",
+  "version": "1.0.0",
+        "description": "Proceso de creaciòn de ruta con integraciòn continua",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luiscarlos27/nodejsci.git"
+  },
+  "author": "Carlos Vega",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luiscarlos27/nodejsci/issues"
+  },
+  "homepage": "https://github.com/luiscarlos27/nodejsci#readme"
+}
