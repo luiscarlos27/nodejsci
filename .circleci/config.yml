@@ -27,6 +27,7 @@ jobs:
           - v1-dependencies-
 
       - run: npm install
+      - run: npm install mocha
       - run: mkdir ~/junit
       - run: 
           command: mocha test --reporter mocha-junit-reporter
